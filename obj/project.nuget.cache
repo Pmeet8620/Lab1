@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KKmYwpygUXKovqEff24gWXzw5okF03a7v2oxqC7ZRWQmYpfId6EV+Pj7NuLG/fpikYCP2B0dpFfx4K9suz4kIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pmeet\\source\\repos\\Lab1\\Lab1\\Lab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pmeet\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
